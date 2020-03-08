@@ -1,9 +1,9 @@
 class Duplicacy < Formula
-  version "2.3.0"
+  version "2.4.0"
   desc "A new generation cloud backup tool"
   homepage "https://duplicacy.com"
   url "https://github.com/gilbertchen/duplicacy/releases/download/v#{version}/duplicacy_osx_x64_#{version}"
-  sha256 "5e8ea7451116a1cf901fd4ea773b340f3d9ad7cda78f115b72c74005f310ec06"
+  sha256 "1b6797c086b6196c30fe1593bd2f40ff552b0bcac29bf7b2c3c25c23d9293cf2"
 
   bottle :unneeded
 
